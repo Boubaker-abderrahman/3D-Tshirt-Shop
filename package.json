@@ -1,0 +1,13 @@
+{
+  "name": "3d-tshirt-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build" : "npm install --prefix front-end && npm run build --prefix front-end",
+    "preview" : "npm run preview --prefix front-end"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
